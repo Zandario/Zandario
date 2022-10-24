@@ -1,5 +1,5 @@
 ## Gist
-I'm Zandario, I'm in many circles but mostly known inside of BYOND's SS13 and NeosVR.
+I'm Zandario, I'm in many circles but mostly known inside of SS13 and NeosVR.
 
 ## [SS13](https://spacestation13.com/) Involvement
 - Organizations: [Citadel](https://github.com/Citadel-Station-13)
