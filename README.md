@@ -1,8 +1,16 @@
-### Hi there 👋
+## Gist
+I'm Zandario, I'm in many circles but mostly known inside of BYOND's SS13 and NeosVR.
+
+## [SS13](https://spacestation13.com/) Involvement
+- Organizations: [Citadel](https://github.com/Citadel-Station-13)
+- Primary Repo: [CitRP](https://github.com/Citadel-Station-13/Citadel-Station-13-RP)
+
+## [NeosVR](https://github.com/Neos-Metaverse/NeosPublic) Involvement
+- Infiliations: Member of [CytraX](https://cytrax.net/), Member of NeosVR's [Mentor Team](https://wiki.neosvr.com/Mentors), Member of NeosVR's QC Team.
+
+## Holopin Board
 [![@zandario's Holopin board](https://holopin.me/zandario)](https://holopin.io/@zandario)
 <!--
-**Zandario/Zandario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
