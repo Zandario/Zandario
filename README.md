@@ -1,6 +1,9 @@
 ## Gist
 I'm Zandario, I'm in many circles but mostly known inside of SS13 and NeosVR.
 
+## External
+- Discord: Zandario#0001
+
 ## [SS13](https://spacestation13.com/) Involvement
 - Organizations: [Citadel](https://github.com/Citadel-Station-13)
 - Primary Repo: [CitRP](https://github.com/Citadel-Station-13/Citadel-Station-13-RP)
