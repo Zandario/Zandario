@@ -6,6 +6,14 @@ I'm Zandario, I'm in many circles but mostly known inside of SS13 and NeosVR.
 
 ![Zandario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zandario&show_icons=true&theme=transparent)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zandario&layout=compact&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zandario&show_icons=true&theme=transparent" />
+</a>
+
+
 ## External
 - Discord: Zandario#0001
 
