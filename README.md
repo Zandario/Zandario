@@ -1,7 +1,7 @@
 ## Gist
 I'm Zandario, I'm in many circles but mostly known inside of SS13 and NeosVR.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zandario&layout=compact)](https://github.com/Zandario/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zandario&layout=compact&langs_count=8)](https://github.com/Zandario/github-readme-stats)
 
 ## External
 - Discord: Zandario#0001
