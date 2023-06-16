@@ -7,7 +7,7 @@ I'm Zandario, I'm in many circles but mostly known inside of SS13 and NeosVR.
 ![Zandario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zandario&show_icons=true&theme=transparent)
 
 ## External
-- Discord: Zandario#0001
+- Discord: @zandario | Zandario#0001
 
 ## [SS13](https://spacestation13.com/) Involvement
 - Organizations: [Citadel](https://github.com/Citadel-Station-13)
