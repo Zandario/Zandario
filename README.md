@@ -1,5 +1,5 @@
 ## Gist
-I'm Zandario, I'm in many circles but mostly known inside of SS13 and NeosVR.
+I'm Zandario, I'm in many circles but mostly known inside of SS13 and Resonite.
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zandario&layout=compact&langs_count=6&theme=transparent)
@@ -7,14 +7,14 @@ I'm Zandario, I'm in many circles but mostly known inside of SS13 and NeosVR.
 ![Zandario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zandario&show_icons=true&theme=transparent)
 
 ## External
-- Discord: @zandario | Zandario#0001
+- Discord: @zandario
 
 ## [SS13](https://spacestation13.com/) Involvement
-- Organizations: [Citadel](https://github.com/Citadel-Station-13)
-- Primary Repo: [CitRP](https://github.com/Citadel-Station-13/Citadel-Station-13-RP)
+- Maintainer for [Citadel Station 13](https://github.com/Citadel-Station-13/Citadel-Station-13-RP)
 
-## [NeosVR](https://github.com/Neos-Metaverse/NeosPublic) Involvement
-- Infiliations: Member of [CytraX](https://cytrax.net/), Member of NeosVR's [Mentor Team](https://wiki.neosvr.com/Mentors), Member of NeosVR's QC Team.
+## [Resonite](https://resonite.com/) Involvement
+- Member of Resonite's Mentor Team
+- Member of [CytraX](https://cytrax.net/)
 
 ## Holopin Board
 [![@zandario's Holopin board](https://holopin.me/zandario)](https://holopin.io/@zandario)
