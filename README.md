@@ -14,7 +14,7 @@ I'm Zandario, I'm in many circles but mostly known inside of SS13 and Resonite.
 
 ## [Resonite](https://resonite.com/) Involvement
 - Member of Resonite's Mentor Team
-- Member of [CytraX](https://cytrax.net/)
+- Member of [VoidAnchor](https://github.com/VoidAnchor)
 
 ## Holopin Board
 [![@zandario's Holopin board](https://holopin.me/zandario)](https://holopin.io/@zandario)
