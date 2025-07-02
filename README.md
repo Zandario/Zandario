@@ -14,7 +14,7 @@ Maintainer for
 
 Creator of https://github.com/CytraX-Team/Resonite-Data-Compiler
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CytraX-Team&repo=Resonite-Data-Compiler)
+[![Resonite Data Compiler](https://github-readme-stats.vercel.app/api/pin/?username=CytraX-Team&repo=Resonite-Data-Compiler)](https://github.com/CytraX-Team/Resonite-Data-Compiler)
 
 ## External
 - Discord: @zandario
