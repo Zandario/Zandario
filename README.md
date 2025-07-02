@@ -4,9 +4,9 @@ I'm Zandario, I'm in many circles but mostly known inside of SS13 and Resonite.
 I mainly enjoy refactoring, code chores, and tool building.
 
 ## [SS13](https://spacestation13.com/) Involvement
-Maintainer for https://github.com/Citadel-Station-13/Citadel-Station-13-RP
+Maintainer for
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Citadel-Station-13&repo=Citadel-Station-13-RP)
+[![Citadel Station 13 RP](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Citadel-Station-13-RP)](https://github.com/Citadel-Station-13/Citadel-Station-13-RP)
 
 ## [Resonite](https://resonite.com/) Involvement
 - Member of Resonite's Mentor Team
