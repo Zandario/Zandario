@@ -12,7 +12,7 @@ Maintainer for
 - Member of Resonite's Mentor Team
 - Member of [VoidAnchor](https://github.com/VoidAnchor)
 
-Creator of https://github.com/CytraX-Team/Resonite-Data-Compiler
+Creator of
 
 [![Resonite Data Compiler](https://github-readme-stats.vercel.app/api/pin/?username=CytraX-Team&repo=Resonite-Data-Compiler)](https://github.com/CytraX-Team/Resonite-Data-Compiler)
 
