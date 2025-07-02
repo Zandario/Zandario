@@ -4,7 +4,7 @@ I'm Zandario, I'm in many circles but mostly known inside of SS13 and Resonite.
 I mainly enjoy refactoring, code chores, and tool building.
 
 ## [SS13](https://spacestation13.com/) Involvement
-Maintainer for
+Maintainer for https://github.com/Citadel-Station-13/Citadel-Station-13-RP
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Citadel-Station-13&repo=Citadel-Station-13-RP)
 
@@ -12,7 +12,7 @@ Maintainer for
 - Member of Resonite's Mentor Team
 - Member of [VoidAnchor](https://github.com/VoidAnchor)
 
-Creator of
+Creator of https://github.com/CytraX-Team/Resonite-Data-Compiler
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CytraX-Team&repo=Resonite-Data-Compiler)
 
